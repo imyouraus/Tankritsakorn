@@ -1,2 +1,3 @@
 # Tankritsakorn
-This is my githun profile
+Hi There
+This is my github profile
